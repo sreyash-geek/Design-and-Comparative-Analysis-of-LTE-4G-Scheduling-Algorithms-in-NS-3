@@ -1,0 +1,80 @@
+schType, speed, totalThroughPut
+Proportional Fair, 0, 899882
+schType, speed, totalThroughPut
+Proportional Fair, 0, 1.07409e+06
+schType, speed, totalThroughPut
+Proportional Fair, 0, 1.36968e+06
+schType, speed, totalThroughPut
+Proportional Fair, 0, 846684
+schType, speed, totalThroughPut
+Proportional Fair, 0, 1.21582e+06
+schType, speed, totalThroughPut
+Round Robin, 0, 578140
+schType, speed, totalThroughPut
+Round Robin, 0, 742563
+schType, speed, totalThroughPut
+Round Robin, 0, 984722
+schType, speed, totalThroughPut
+Round Robin, 0, 638751
+schType, speed, totalThroughPut
+Round Robin, 0, 882803
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.54408e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.71353e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 2.01794e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.43602e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.94939e+06
+schType, speed, totalThroughPut
+BET, 0, 723549
+schType, speed, totalThroughPut
+BET, 0, 745448
+schType, speed, totalThroughPut
+BET, 0, 931352
+schType, speed, totalThroughPut
+BET, 0, 715910
+schType, speed, totalThroughPut
+BET, 0, 898504
+schType, speed, totalThroughPut
+Proportional Fair, 5, 899882
+schType, speed, totalThroughPut
+Proportional Fair, 5, 1.07409e+06
+schType, speed, totalThroughPut
+Proportional Fair, 5, 1.36968e+06
+schType, speed, totalThroughPut
+Proportional Fair, 5, 846684
+schType, speed, totalThroughPut
+Proportional Fair, 5, 1.21582e+06
+schType, speed, totalThroughPut
+Round Robin, 5, 578140
+schType, speed, totalThroughPut
+Round Robin, 5, 742563
+schType, speed, totalThroughPut
+Round Robin, 5, 984722
+schType, speed, totalThroughPut
+Round Robin, 5, 638751
+schType, speed, totalThroughPut
+Round Robin, 5, 882803
+schType, speed, totalThroughPut
+Max Throughput, 5, 1.54408e+06
+schType, speed, totalThroughPut
+Max Throughput, 5, 1.71353e+06
+schType, speed, totalThroughPut
+Max Throughput, 5, 2.01794e+06
+schType, speed, totalThroughPut
+Max Throughput, 5, 1.43602e+06
+schType, speed, totalThroughPut
+Max Throughput, 5, 1.94939e+06
+schType, speed, totalThroughPut
+BET, 5, 723549
+schType, speed, totalThroughPut
+BET, 5, 745448
+schType, speed, totalThroughPut
+BET, 5, 931352
+schType, speed, totalThroughPut
+BET, 5, 715910
+schType, speed, totalThroughPut
+BET, 5, 898504

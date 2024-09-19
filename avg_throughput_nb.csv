@@ -1,0 +1,60 @@
+schType, speed, totalThroughPut
+Proportional Fair, 0, 916921
+schType, speed, totalThroughPut
+Proportional Fair, 0, 959456
+schType, speed, totalThroughPut
+Proportional Fair, 0, 1.093e+06
+schType, speed, totalThroughPut
+Proportional Fair, 0, 894115
+schType, speed, totalThroughPut
+Proportional Fair, 0, 1.02901e+06
+schType, speed, totalThroughPut
+Round Robin, 0, 828541
+schType, speed, totalThroughPut
+Round Robin, 0, 920475
+schType, speed, totalThroughPut
+Round Robin, 0, 1.02589e+06
+schType, speed, totalThroughPut
+Round Robin, 0, 807085
+schType, speed, totalThroughPut
+Round Robin, 0, 972129
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.04813e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.08407e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.09242e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.12758e+06
+schType, speed, totalThroughPut
+Max Throughput, 0, 1.07855e+06
+schType, speed, totalThroughPut
+BET, 0, 923837
+schType, speed, totalThroughPut
+BET, 0, 971651
+schType, speed, totalThroughPut
+BET, 0, 1.1013e+06
+schType, speed, totalThroughPut
+BET, 0, 916316
+schType, speed, totalThroughPut
+BET, 0, 1.0324e+06
+Proportional Fair, 5, 916921
+Proportional Fair, 5, 959456
+Proportional Fair, 5, 1.093e+06
+Proportional Fair, 5, 894115
+Proportional Fair, 5, 1.02901e+06
+Round Robin, 5, 828541
+Round Robin, 5, 920475
+Round Robin, 5, 1.02589e+06
+Round Robin, 5, 807085
+Round Robin, 5, 972129
+Max Throughput, 5, 1.04813e+06
+Max Throughput, 5, 1.08407e+06
+Max Throughput, 5, 1.09242e+06
+Max Throughput, 5, 1.12758e+06
+Max Throughput, 5, 1.07855e+06
+BET, 5, 923837
+BET, 5, 971651
+BET, 5, 1.1013e+06
+BET, 5, 916316
+BET, 5, 1.0324e+06
